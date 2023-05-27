@@ -26,6 +26,8 @@ Or, you can modify the game directly by modifying the main.py file.
 
     pyinstaller main.py --windowed --onefile
 
+---
+
 (WITH MODS):
 
 1 - Make sure you have the latest version of pyinstaller using "pip install pyinstaller" and the latest pip version.
