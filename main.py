@@ -49,7 +49,7 @@ for mos in mods:
 # Create a dictionary to store the imported modules
 imported_modules = {}
 
-allowed_mods = False
+allowed_mods = True
 
 # Loop through the mods and import them
 for mod in mods:
