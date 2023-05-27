@@ -32,4 +32,4 @@ Or, you can modify the game directly by modifying the main.py file.
 
 3 - Copy this into the command line and run it:
 
-    "pyinstaller main.py --windowed --onefile --add-data "mods/*.py;mods/" "
+    pyinstaller main.py --windowed --onefile --add-data "mods/*.py;mods/"
