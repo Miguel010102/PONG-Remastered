@@ -22,7 +22,9 @@ Or, you can modify the game directly by modifying the main.py file.
 
 2 - Open up CMD in the folder with the main.py inside of it.
 
-3 - Copy this into the command line and run it: "pyinstaller main.py --windowed --onefile"
+3 - Copy this into the command line and run it:
+
+    pyinstaller main.py --windowed --onefile
 
 (WITH MODS):
 
